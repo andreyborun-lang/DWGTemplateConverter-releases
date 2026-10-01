@@ -10,9 +10,9 @@
 
 ## AutoCAD 2026
 
-[Версия 0.1.126 для AutoCAD 2026](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v0.1.126-acad2026)
+[Версия 1.0.0 для AutoCAD 2026](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.0-acad2026)
 
-[Скачать EXE для AutoCAD 2026](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v0.1.126-acad2026/DWGTemplateConverter-beta-0.1.126-AutoCAD2026.exe)
+[Скачать EXE для AutoCAD 2026](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.0-acad2026/DWGTemplateConverter-1.0.0-AutoCAD2026.exe)
 
 Пакет 2026 содержит панель .NET 8 и отдельно скомпилированный FAS. Загрузка и замена блоков проверены в AutoCAD 2026.1. **AutoCAD 2026.1.2 / .NET 10 ещё не проверены; совместимость не подтверждена.** Статусы испытаний конкретного выпуска указаны в его описании.
 
