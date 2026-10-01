@@ -4,9 +4,9 @@
 
 ## AutoCAD 2020
 
-[Версия 1.0.0](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.0)
+[Версия 1.0.1](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.1)
 
-[Скачать EXE для AutoCAD 2020](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.0/DWGTemplateConverter-1.0.0-AutoCAD2020.exe)
+[Скачать EXE для AutoCAD 2020](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.1/DWGTemplateConverter-1.0.1-AutoCAD2020.exe)
 
 ## AutoCAD 2026
 
