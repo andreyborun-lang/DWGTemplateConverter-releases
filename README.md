@@ -4,13 +4,13 @@
 
 ## AutoCAD 2020
 
-[Бета-версия 0.1.125](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v0.1.125)
+[Версия 1.0.0](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.0)
 
-[Скачать EXE для AutoCAD 2020](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v0.1.125/DWGTemplateConverter-beta-0.1.125-AutoCAD2020.exe)
+[Скачать EXE для AutoCAD 2020](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.0/DWGTemplateConverter-1.0.0-AutoCAD2020.exe)
 
 ## AutoCAD 2026
 
-[Бета-версия 0.1.126 для AutoCAD 2026](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v0.1.126-acad2026)
+[Версия 0.1.126 для AutoCAD 2026](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v0.1.126-acad2026)
 
 [Скачать EXE для AutoCAD 2026](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v0.1.126-acad2026/DWGTemplateConverter-beta-0.1.126-AutoCAD2026.exe)
 
