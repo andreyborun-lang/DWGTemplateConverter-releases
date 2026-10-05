@@ -1,12 +1,20 @@
 # DWGTemplateConverter
 
-Установщики преобразования чертежей для AutoCAD. Выпуски 2020 и 2026 устанавливаются отдельно.
+Установщики преобразования чертежей для AutoCAD. Выпуски 2020, 2021 и 2026 устанавливаются отдельно.
 
 ## AutoCAD 2020
 
 [Версия 1.0.4](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.4)
 
 [Скачать EXE для AutoCAD 2020](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.4/DWGTemplateConverter-1.0.4-AutoCAD2020.exe)
+
+## AutoCAD 2021
+
+[Версия 1.0.5 для AutoCAD 2021 — тестовый выпуск](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.5-acad2021)
+
+[Скачать EXE для AutoCAD 2021](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.5-acad2021/DWGTemplateConverter-1.0.5-AutoCAD2021.exe)
+
+Пакет 2021 содержит панель .NET Framework 4.8 и FAS, скомпилированный в AutoCAD 2021. Ручная и автоматическая проверки обновлений включены для отдельного канала 2021. Сборка, скачивание и SHA-256 проверены; пользователь подтвердил работу предшествующего тестового пакета. Установка и полный цикл обновления в AutoCAD ещё требуют ручной проверки. Подробные результаты указаны в описании выпуска.
 
 ## AutoCAD 2026
 
