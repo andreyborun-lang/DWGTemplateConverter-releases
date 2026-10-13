@@ -19,12 +19,14 @@
 
 | Версия AutoCAD | Выпуск | Установщик |
 |---|---|---|
-| **AutoCAD 2020** | [1.0.4](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.4) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.4/DWGTemplateConverter-1.0.4-AutoCAD2020.exe) |
-| **AutoCAD 2021** | [1.0.5 — тестовый выпуск](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.5-acad2021) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.5-acad2021/DWGTemplateConverter-1.0.5-AutoCAD2021.exe) |
-| **AutoCAD 2022** | [1.0.5](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.5-acad2022) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.5-acad2022/DWGTemplateConverter-1.0.5-AutoCAD2022.exe) |
-| **AutoCAD 2024** | [1.0.5](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.5-acad2024) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.5-acad2024/DWGTemplateConverter-1.0.5-AutoCAD2024.exe) |
-| **AutoCAD 2025** | [1.0.5](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.5-acad2025) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.5-acad2025/DWGTemplateConverter-1.0.5-AutoCAD2025.exe) |
-| **AutoCAD 2026** | [1.0.4](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.4-acad2026) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.4-acad2026/DWGTemplateConverter-1.0.4-AutoCAD2026.exe) |
+| **AutoCAD 2020** | [1.0.13](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.13) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.13/DWGTemplateConverter-1.0.13-AutoCAD2020.exe) |
+| **AutoCAD 2021** | [1.0.13 — тестовый выпуск](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.13-acad2021) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.13-acad2021/DWGTemplateConverter-1.0.13-AutoCAD2021.exe) |
+| **AutoCAD 2022** | [1.0.13](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.13-acad2022) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.13-acad2022/DWGTemplateConverter-1.0.13-AutoCAD2022.exe) |
+| **AutoCAD 2023** | [1.0.13](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.13-acad2023) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.13-acad2023/DWGTemplateConverter-1.0.13-AutoCAD2023.exe) |
+| **AutoCAD 2024** | [1.0.13](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.13-acad2024) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.13-acad2024/DWGTemplateConverter-1.0.13-AutoCAD2024.exe) |
+| **AutoCAD 2025** | [1.0.13](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.13-acad2025) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.13-acad2025/DWGTemplateConverter-1.0.13-AutoCAD2025.exe) |
+| **AutoCAD 2026** | [1.0.13](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.13-acad2026) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.13-acad2026/DWGTemplateConverter-1.0.13-AutoCAD2026.exe) |
+| **AutoCAD 2027** | [1.0.13](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.0.13-acad2027) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.0.13-acad2027/DWGTemplateConverter-1.0.13-AutoCAD2027.exe) |
 
 **AutoCAD 2020** — основная рабочая версия программы. Включает графическую панель, правила преобразования, образец шаблона и проверку обновлений.
 
@@ -32,11 +34,15 @@
 
 **AutoCAD 2022** — отдельный выпуск с графической панелью, правилами преобразования и своим каналом обновлений. После установки откройте панель командой `TC_UI`, выберите шаблон и проверьте нужные операции на копии чертежа.
 
+**AutoCAD 2023** — отдельный выпуск с графической панелью, правилами преобразования и своим каналом обновлений. После установки откройте панель командой `TC_UI`, выберите шаблон и проверьте нужные операции на копии чертежа.
+
 **AutoCAD 2024** — отдельный выпуск с графической панелью, правилами преобразования и своим каналом обновлений. Установите пакет для 2024, выберите шаблон и проверьте нужные операции на копии чертежа.
 
 **AutoCAD 2025** — отдельный выпуск с графической панелью, правилами преобразования и своим каналом обновлений. После установки откройте панель командой `TC_UI`, выберите шаблон и проверьте нужные операции на копии чертежа.
 
 **AutoCAD 2026** — отдельный пакет для этой версии AutoCAD. Загрузка и замена блоков проверены в AutoCAD 2026.1. Совместимость с AutoCAD 2026.1.2 пока не подтверждена.
+
+**AutoCAD 2027** — отдельный выпуск с графической панелью, правилами преобразования и своим каналом обновлений. Перед рабочим применением проверьте операции на копии чертежа.
 
 [Все выпуски и история изменений](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases)
 
