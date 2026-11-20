@@ -20,7 +20,7 @@
 | Версия AutoCAD | Выпуск | Установщик |
 |---|---|---|
 | **AutoCAD 2020** | [1.2.8](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.2.8) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.2.8/DWGTemplateConverter-1.2.8-AutoCAD2020.exe) |
-| **AutoCAD 2021** | [1.2.8 — тестовый выпуск](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.2.8-acad2021) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.2.8-acad2021/DWGTemplateConverter-1.2.8-AutoCAD2021.exe) |
+| **AutoCAD 2021** | [1.2.8](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.2.8-acad2021) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.2.8-acad2021/DWGTemplateConverter-1.2.8-AutoCAD2021.exe) |
 | **AutoCAD 2022** | [1.2.8](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.2.8-acad2022) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.2.8-acad2022/DWGTemplateConverter-1.2.8-AutoCAD2022.exe) |
 | **AutoCAD 2023** | [1.2.8](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.2.8-acad2023) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.2.8-acad2023/DWGTemplateConverter-1.2.8-AutoCAD2023.exe) |
 | **AutoCAD 2024** | [1.2.8](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/tag/v1.2.8-acad2024) | [Скачать EXE](https://github.com/andreyborun-lang/DWGTemplateConverter-releases/releases/download/v1.2.8-acad2024/DWGTemplateConverter-1.2.8-AutoCAD2024.exe) |
@@ -30,7 +30,7 @@
 
 **AutoCAD 2020** — основная рабочая версия программы. Включает графическую панель, правила преобразования, образец шаблона и проверку обновлений.
 
-**AutoCAD 2021** — отдельный тестовый выпуск с теми же основными инструментами преобразования и своим каналом обновлений. Перед использованием на рабочих чертежах проверьте нужные вам операции на копии DWG.
+**AutoCAD 2021** — отдельный выпуск с теми же основными инструментами преобразования и своим каналом обновлений. Перед использованием на рабочих чертежах проверьте нужные вам операции на копии DWG.
 
 **AutoCAD 2022** — отдельный выпуск с графической панелью, правилами преобразования и своим каналом обновлений. После установки откройте панель командой `TC_UI`, выберите шаблон и проверьте нужные операции на копии чертежа.
 
